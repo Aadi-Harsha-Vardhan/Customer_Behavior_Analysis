@@ -23,11 +23,11 @@ The dataset contains customer transaction and behavior records, including:
 
 | Area | Tool |
 |------|------|
-Programming | Python (Pandas, NumPy, Matplotlib/Seaborn)
-Database | PostgreSQL / MySQL / SQL Server
+Programming | Python (Pandas)
+Database | MySQL WorkBench
 Data Cleaning | Python & SQL
 Visualization | Power BI
-Reporting | Project report + PPT (Gamma)
+Reporting | PPT (Gamma)
 Notebook | Jupyter Notebook
 
 ---
@@ -93,8 +93,8 @@ The Power BI dashboard enables:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd project-folder
+git clone https://github.com/Aadi-Harsha-Vardhan/Customer_Behavior_Analysis.git
+cd Customer_Behavior_Analysis
 ```
 2️⃣ Run the Notebook
 
